@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 5d43f26b37425ac4588a668116fa8e95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6690396085417188175
+    second: BarryFullSpriteSheet-removebg-preview_0
+  - first:
+      213: -3177813200294937748
+    second: BarryFullSpriteSheet-removebg-preview_1
+  - first:
+      213: 6006761741733586451
+    second: BarryFullSpriteSheet-removebg-preview_2
+  - first:
+      213: 648408386146367140
+    second: BarryFullSpriteSheet-removebg-preview_3
+  - first:
+      213: -2756661467921469696
+    second: BarryFullSpriteSheet-removebg-preview_4
+  - first:
+      213: 215705385008659957
+    second: BarryFullSpriteSheet-removebg-preview_5
+  - first:
+      213: -6735618619236714655
+    second: BarryFullSpriteSheet-removebg-preview_6
+  - first:
+      213: -7109134181519921490
+    second: BarryFullSpriteSheet-removebg-preview_7
+  - first:
+      213: 243688792033663560
+    second: BarryFullSpriteSheet-removebg-preview_8
+  - first:
+      213: 7381087207179330884
+    second: BarryFullSpriteSheet-removebg-preview_9
+  - first:
+      213: -2556581428219175147
+    second: BarryFullSpriteSheet-removebg-preview_10
+  - first:
+      213: 7766371806467462925
+    second: BarryFullSpriteSheet-removebg-preview_11
+  - first:
+      213: 5304771424397657158
+    second: BarryFullSpriteSheet-removebg-preview_12
+  - first:
+      213: -584462982192169744
+    second: BarryFullSpriteSheet-removebg-preview_13
+  - first:
+      213: -1920051481769701982
+    second: BarryFullSpriteSheet-removebg-preview_14
+  - first:
+      213: 3433575827140309943
+    second: BarryFullSpriteSheet-removebg-preview_15
+  - first:
+      213: 5912992746755007778
+    second: BarryFullSpriteSheet-removebg-preview_16
+  - first:
+      213: -9042716486881753166
+    second: BarryFullSpriteSheet-removebg-preview_17
+  - first:
+      213: -3599959080415602660
+    second: BarryFullSpriteSheet-removebg-preview_18
+  - first:
+      213: 2683623930850722137
+    second: BarryFullSpriteSheet-removebg-preview_19
+  - first:
+      213: -4142378909402224698
+    second: BarryFullSpriteSheet-removebg-preview_20
+  - first:
+      213: 6346537913543499676
+    second: BarryFullSpriteSheet-removebg-preview_21
+  - first:
+      213: -679006090778361775
+    second: BarryFullSpriteSheet-removebg-preview_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 447
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46b022530f623a0800000000000000
+      internalID: -6690396085417188175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 453
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7fd92bb326e3d0800000000000000
+      internalID: -3177813200294937748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 449
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ef6a9afd4c5350800000000000000
+      internalID: 6006761741733586451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 455
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a673a5edfb9ff800800000000000000
+      internalID: 648408386146367140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 364
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fa886100f5eb9d0800000000000000
+      internalID: -2756661467921469696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 364
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd7491a7e65ef200800000000000000
+      internalID: 215705385008659957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 364
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16773e97d864682a0800000000000000
+      internalID: -6735618619236714655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 285
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeeae1b028475d90800000000000000
+      internalID: -7109134181519921490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 364
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a19ec4aa1c16300800000000000000
+      internalID: 243688792033663560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 288
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445aa1055b3ee6660800000000000000
+      internalID: 7381087207179330884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 286
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f92a38cb2358cd0800000000000000
+      internalID: -2556581428219175147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071a1e8202b7cb60800000000000000
+      internalID: 7766371806467462925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 198
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6448ddd21855e9940800000000000000
+      internalID: 5304771424397657158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf11aa30293e7f0800000000000000
+      internalID: -584462982192169744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 200
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad87a6a95b9a55e0800000000000000
+      internalID: -1920051481769701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 202
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3f01ed50386af20800000000000000
+      internalID: 3433575827140309943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2252bc5239b2f0250800000000000000
+      internalID: 5912992746755007778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 110
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b748daf341d18280800000000000000
+      internalID: -9042716486881753166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d2ed2a406a0ec0800000000000000
+      internalID: -3599959080415602660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 35
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95148152fb52e3520800000000000000
+      internalID: 2683623930850722137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 34
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7a20444505386c0800000000000000
+      internalID: -4142378909402224698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 110
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1f426b9e631850800000000000000
+      internalID: 6346537913543499676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 16
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15044d6de8fa396f0800000000000000
+      internalID: -679006090778361775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 111
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e091fcd1a45f7234389c5a7de92a3028
+      internalID: -19253219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarryFullSpriteSheet-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 111
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6dc5ab61213f94381e36921bd21c88
+      internalID: -427643056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f1427a5926fd6294c8999870b1b414b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BarryFullSpriteSheet-removebg-preview_23: -19253219
+      BarryFullSpriteSheet-removebg-preview_24: -427643056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
