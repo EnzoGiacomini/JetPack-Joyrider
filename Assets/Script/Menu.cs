@@ -24,6 +24,9 @@ public class Menu : MonoBehaviour
     Vector3 bg_1;
     Vector3 bg_2;
 
+    public GameObject SuspenseMenu;
+    bool paused_ = false;
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -52,6 +55,19 @@ public class Menu : MonoBehaviour
     void Update()
     {
         StartGame();
+
+        if (Input.GetKeyDown(KeyCode.Escape) && on_place == true && paused_ == false)
+        {
+            SuspenseMenu.SetActive(true);
+            Time.timeScale = 0;
+            paused_ = true;
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && on_place == true && paused_ == true)
+        {
+            SuspenseMenu.SetActive(false);
+            Time.timeScale = 1;
+            paused_ = false;
+        }
     }
 
     public void StartButton()
