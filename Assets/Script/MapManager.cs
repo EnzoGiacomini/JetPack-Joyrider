@@ -257,7 +257,7 @@ public class MapManager : MonoBehaviour
         Destroy(laser_l_instance);
         Destroy(laser_r_instance);
         Destroy(laser_b_instance);
-    }**/ // Mecanica não agradou. Principalmente a parte de rotação.
+    } **/ // Mecanica não agradou. Principalmente a parte de rotação.
 
     //BombExplosionMechanic
     public void SpawnBomb(Vector2 position)
@@ -310,7 +310,7 @@ public class MapManager : MonoBehaviour
 
         vertical_laser_b_instance.transform.localScale = new Vector3(Dist_up_down * 4, 3, 1);
 
-        while (vertical_laser_up.transform.position.x > -16.9)
+        while (vertical_laser_up.transform.position.x > -17)
         {
             yield return new WaitForFixedUpdate();
 
